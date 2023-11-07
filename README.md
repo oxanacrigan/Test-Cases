@@ -38,6 +38,7 @@ The user should not be able to login.
 
 **Test data:**
 User: test & Pass: 123
+
 --------------------------------
 
 **Title:**
@@ -58,6 +59,7 @@ User should be able to save his user and pass.
 
 **Test data:**
 User: test & Pass: 123
+
 -----------------------
 
 **Title:**
@@ -78,6 +80,7 @@ User should be able to receive the search result.
 
 **Test data:**
 User: test & Pass: 123
+
 -----------------------
 
 **Title:**
@@ -95,6 +98,7 @@ Check if the search can autocomplete when a person enters an input.
 
 **Test data:**
 User: test & Pass: 123
+
 --------------------------
 
 **Title:**
