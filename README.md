@@ -1,7 +1,7 @@
 # Test-Cases
 Below are some Test Cases samples.
 
----------------
+-----------------------------
 
 **Title:**
 Test login with incorrect credentials
@@ -10,7 +10,7 @@ Test login with incorrect credentials
 Check if the login works when a person uses an incorrect user or password.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add an incorrect user/password
 3. Press Login button
 4. Observe if the user can login
@@ -30,7 +30,7 @@ Test login without credentials
 Check if the login works when a person does not uses an user and a password.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add an empty space instead of the user and password.
 3. Press Login button
 4. Observe if the user can login
@@ -50,7 +50,7 @@ Test the 'Remember Me' checkbox
 Check if the 'Remember Me' checkbox works when a person press on it.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add the user and the password
 3. Click the "Remember Me" checkbox
 4. Press the login button
@@ -71,7 +71,7 @@ Test the search section
 Check if the search works when a person enters an input.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add the correct credentials
 3. Press Login button
 4. Enter an input in the search section
@@ -92,7 +92,7 @@ Test the search autocompletion
 Check if the search can autocomplete when a person enters an input.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add the correct credentials
 3. Press Login button
 4. Go to search section
@@ -110,7 +110,7 @@ Test the search without error
 Check if the search gives an error when an user is looking for something that does not exist.
 
 **Steps to reproduce:**
-1. Go to wordpress.com/start/user  
+1. Go to https://wordpress.com/start/user-social
 2. Add the correct credentials
 3. Press Login button
 4. Go to the search section
